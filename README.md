@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arun_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun_p___" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arun kumar p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar p" height="30" width="40" /></a>
-<a href="https://fb.com/arun p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun p" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arun-kumar-p-5a86a5223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar p" height="30" width="40" /></a>
+<a href="https://fb.com/arunkumar.p.7165331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun p" height="30" width="40" /></a>
 <a href="https://instagram.com/arun_p__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arun_p__" height="30" width="40" /></a>
 </p>
 
